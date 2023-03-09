@@ -47,3 +47,20 @@ nav{
     color: green;
     transition: 0.7s;
 }
+
+#herolife{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#lifeq{
+    font-size: 72px;
+    font-weight: bold;
+    padding-top: 100px;
+    font-family: sans-serif;
+}
+
+#heroq{
+    font-size: 25px;
+}
