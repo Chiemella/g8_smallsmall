@@ -95,3 +95,19 @@ nav{
     box-shadow: gray;
     border-radius: 30px;
 }
+
+.card1{
+    align-items: stretch;
+    margin: auto;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.creativeimg{
+    width: 400px;
+    height: min-content;
+}
+
+#cardtext1{
+    padding-top: 0%;
+}
