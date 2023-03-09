@@ -64,3 +64,34 @@ nav{
 #heroq{
     font-size: 25px;
 }
+
+.call2action{
+    align-items: stretch;
+    margin: auto;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.callbutton{
+    width: 250px;
+    height: 70px;
+    background-color: green;
+    border-color: white;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.readycall{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.welcome{
+    background-color: green;
+    width: 1000px;
+    height: 450px;
+    box-shadow: gray;
+    border-radius: 30px;
+}
