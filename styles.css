@@ -1,3 +1,49 @@
+.myowncont{
+    width: 1250px;
+    align-items: stretch;
+    margin: auto;
+}
+
 nav{
     padding-top: 20px;
+}
+
+.text1 {
+    text-align: left;
+    color: black;
+    font-size: 10px;
+  }
+  
+.text2 {
+    text-align: left;
+    font-size: 15px;
+    color: black;
+  }
+
+.button1{
+    font-weight: bold;
+    background-color: white;
+    color: green;
+    border-color: green;
+    border-radius: 5px;
+    
+}
+
+.button1:hover {
+    background-color: green;
+    color: white;
+    transition: 0.7s;
+}
+
+.button2{
+    background-color: green;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+}
+
+.button2:hover {
+    background-color: white;
+    color: green;
+    transition: 0.7s;
 }
